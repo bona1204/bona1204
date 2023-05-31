@@ -32,7 +32,7 @@
 
 ---
 
-## Connect with me:
+## Here's my contact:
 
 
 <p align="left">
