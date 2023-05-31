@@ -39,4 +39,4 @@
 
 ---
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bona1204" alt="bona1204" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=bona1204&theme=transparent"><img src="https://github-profile-trophy.vercel.app/?username=bona1204&no-bg=true&title=Repositories,Stars,Commits,PullRequest&no-frame=true&theme=darkhub" alt="bona1204" /></a> </p>
