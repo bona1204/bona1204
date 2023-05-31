@@ -35,7 +35,6 @@
 ## Here's my contact:
 
 <a href="https://linkedin.com/in/sebastianbonilladelacruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastianbonilladelacruz" height="30" width="40" /></a>
-<a href="https://instagram.com/sebastian.bonillad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebastian.bonillad" height="30" width="40" /></a>
 
 ---
 <br/>
