@@ -1,5 +1,5 @@
 # Hi there, I'm Sebastián Bonilla- aka Bona 👋 
-<h5 >I'm a Full stack developer, constantly studying new technologies. With previous knowledge in bioengineering. If i'm not in front of my pc, probably i'm hanging out with some friends or my brother </h5>
+<h4>I'm a Full stack developer, constantly studying new technologies. With previous knowledge in bioengineering. If i'm not in front of my pc, probably i'm hanging out with some friends or my brother </h4>
 
 <br/>
 
